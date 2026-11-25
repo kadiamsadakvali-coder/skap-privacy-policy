@@ -213,7 +213,7 @@
 
 <p>The latest version will be published on the official website:</p>
 
-<p><a href="https://skalignpro.com/privacy-policy">https://skalignpro.com/privacy-policy</a></p>
+<p><a href="https://kadiamsadakvali-coder.github.io/skap-privacy-policy/">https://kadiamsadakvali-coder.github.io/skap-privacy-policy/</a>
 
 <p>The updated date will be revised when material changes are made.</p>
 
